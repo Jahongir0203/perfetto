@@ -1,0 +1,15 @@
+{
+  "selectLang": "Select language",
+  "registration": "Registration",
+  "name": "Name surname",
+  "phoneNumber": "Phone number",
+  "haveAnAccount": "Do you have an account?",
+  "enter": "Log In",
+  "enterFullPhoneNumber": "Enter full phone number!",
+  "continuE": "Continue",
+  "confirmation": "Confirmation",
+  "enterSms": " enter the SMS code sent to",
+  "errorCode": "The verification code was entered incorrectly!",
+  "resend": "Resend",
+  "errorName": "Enter your first name"
+}

@@ -1,0 +1,15 @@
+{
+  "selectLang": "Tilni tanglang",
+  "registration": "Ro'yhatdan o'tish",
+  "name": "Ism familiya",
+  "phoneNumber": "Telefon raqam",
+  "haveAnAccount": "Hisobingiz mavjudmi?",
+  "enter": "Kirish",
+  "continuE": "Davom etish",
+  "enterFullPhoneNumber": "Telefon raqamni to'liq kiriting!",
+  "confirmation": "Tasdiqlash",
+  "enterSms": " ga yuborilgan SMS kodni \nkiriting",
+  "errorCode": "Tasdiqlash kodi xato kiritildi!!",
+  "resend": "Qayta yuborish",
+  "errorName": "Ism familiyangizni kiriting"
+}
